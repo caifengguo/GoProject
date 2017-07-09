@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- Listen URL -->
+	<locale.listen.url>:8088</locale.listen.url>
+	<image.path>d:/PassScene</image.path>
+</config>
